@@ -1,4 +1,4 @@
-# Zoho-Analytics-for-Environmental-Science
+<h1 align="center"><a name="section_name">Zoho Analytics for Environmental Science</a></h1>
 
 
 ## Dataset Details
@@ -6,6 +6,8 @@
 ### Collection
 
 The Environmental Datasets represent measurements taken in 3 distinct environmental settings at the University of Toronto Mississauga campus. The data are separated into pond, field and forest data. Data are collected at these sites using HOBO U30 data loggers equipped with sensors monitoring soil moisture, soil temperature, air temperature and relative humidity. Data are collected hourly and downloaded monthly.
+
+<img src="https://raw.githubusercontent.com/Kavyapriyakp/Zoho-Analytics-for-Environmental-Science/main/Figures/Environmental-Dataset-locations.png" alt="Environmental Dataset locations" style="height: 350px; width:400px;"/>
 
 ### Availability 
 

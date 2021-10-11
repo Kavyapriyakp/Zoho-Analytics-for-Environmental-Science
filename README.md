@@ -45,4 +45,7 @@ A dashboard generated based on May 2016 dataset can be found [here](https://anal
   Data Visualization tools allow analysts and statisticians to create visual data models easily according to their specifications by conveniently providing an interface, database connections, and Machine Learning tools all in one place! The 10 most popular Data Visualization tools that are most commonly used are mentioned below:
 </div>
 
-<img src="https://raw.githubusercontent.com/Kavyapriyakp/Zoho-Analytics-for-Environmental-Science/main/Figures/Environmental-Dataset-locations.png" alt="Environmental Dataset locations" style="height: 150px; width:220px;"/>
+<img src="https://raw.githubusercontent.com/Kavyapriyakp/Zoho-Analytics-for-Environmental-Science/main/Tools/google.png" style="height: 75px; width: 160px;"/>
+<img src="https://raw.githubusercontent.com/Kavyapriyakp/Zoho-Analytics-for-Environmental-Science/main/Tools/whatagraph.png" style="height: 75px; width: 160px;"/>
+<img src="https://raw.githubusercontent.com/Kavyapriyakp/Zoho-Analytics-for-Environmental-Science/main/Tools/tableau.png" style="height: 75px; width: 160px;"/>
+<img src="https://raw.githubusercontent.com/Kavyapriyakp/Zoho-Analytics-for-Environmental-Science/main/Tools/tableau.png" style="height: 75px; width: 160px;"/>

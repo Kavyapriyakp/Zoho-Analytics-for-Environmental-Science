@@ -6,7 +6,8 @@
 ### Collection
 <div align="justify">
 The Environmental Datasets represent measurements taken in 3 distinct environmental settings at the University of Toronto Mississauga campus. The data are separated into pond, field and forest data. Data are collected at these sites using HOBO U30 data loggers equipped with sensors monitoring soil moisture, soil temperature, air temperature and relative humidity. Data are collected hourly and downloaded monthly.
-</div>
+</div><br>
+
 <img src="https://raw.githubusercontent.com/Kavyapriyakp/Zoho-Analytics-for-Environmental-Science/main/Figures/Environmental-Dataset-locations.png" alt="Environmental Dataset locations" style="height: 450px; width:800px;"/>
 
 ### Availability 
@@ -42,7 +43,7 @@ A dashboard generated based on May 2016 dataset can be found [here](https://anal
 ### Assorted
 
 <div align="justify">
-  Data Visualization tools allow analysts and statisticians to create visual data models easily according to their specifications by conveniently providing an interface, database connections, and Machine Learning tools all in one place! The 10 most popular Data Visualization tools that are most commonly used are mentioned below:
+  Data Visualization tools allow analysts and statisticians to create visual data models easily according to their specifications by conveniently providing an interface, database connections, and Machine Learning tools all in one place! some of the most widely used data visualization tools are:
 </div>
 
-<img src="https://raw.githubusercontent.com/Kavyapriyakp/Zoho-Analytics-for-Environmental-Science/main/Tools/google.png" style="height: 100px; width: 160px;"/>     <img src="https://raw.githubusercontent.com/Kavyapriyakp/Zoho-Analytics-for-Environmental-Science/main/Tools/whatagraph.png" style="height: 55px; width: 160px;"/>     <img src="https://raw.githubusercontent.com/Kavyapriyakp/Zoho-Analytics-for-Environmental-Science/main/Tools/tableau.png" style="height: 50px; width: 140px;"/>     <img src="https://raw.githubusercontent.com/Kavyapriyakp/Zoho-Analytics-for-Environmental-Science/main/Tools/zoho.png" style="height: 75px; width: 160px;"/>
+<img src="https://raw.githubusercontent.com/Kavyapriyakp/Zoho-Analytics-for-Environmental-Science/main/Tools/google.png" style="height: 100px; width: 160px;"/>     <img src="https://raw.githubusercontent.com/Kavyapriyakp/Zoho-Analytics-for-Environmental-Science/main/Tools/whatagraph.png" style="height: 55px; width: 160px;"/>     <img src="https://raw.githubusercontent.com/Kavyapriyakp/Zoho-Analytics-for-Environmental-Science/main/Tools/tableau.png" style="height: 50px; width: 140px;"/>     <img src="https://raw.githubusercontent.com/Kavyapriyakp/Zoho-Analytics-for-Environmental-Science/main/Tools/zoho.png" style="height: 75px; width: 160px;"/>     <img src="https://raw.githubusercontent.com/Kavyapriyakp/Zoho-Analytics-for-Environmental-Science/main/Tools/klipfolio.png" style="height: 75px; width: 160px;"/>     <img src="https://raw.githubusercontent.com/Kavyapriyakp/Zoho-Analytics-for-Environmental-Science/main/Tools/looker.png" style="height: 75px; width: 160px;"/>     <img src="https://raw.githubusercontent.com/Kavyapriyakp/Zoho-Analytics-for-Environmental-Science/main/Tools/powerbi.png" style="height: 75px; width: 160px;"/>

@@ -1,5 +1,6 @@
 <h1 align="center"><a name="section_name">Zoho Analytics for Environmental Science</a></h1>
 
+<div align="justify">A dashboard consisting of simple visualizations and analytics of environmental dataset using Zoho Analytics tool.</div>
 
 ## Dataset Details
 

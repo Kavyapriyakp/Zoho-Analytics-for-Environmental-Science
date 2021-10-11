@@ -12,6 +12,7 @@ The Environmental Datasets represent measurements taken in 3 distinct environmen
 ### Availability 
 <div align="justify">
 The dataset is generated and made available to the public by the Department of Geography, Geomatics and Environment, University of Toronto - Mississauga. It is available over the period October 2009 to April 2018.  Individual month datasets for each year are also available.  </div> 
+
 The entire dataset can be downloaded from [here](https://www.utm.utoronto.ca/geography/resources/meteorological-station/environmental-datasets#2018Data).
 
 ### Description
